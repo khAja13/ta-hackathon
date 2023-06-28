@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/1-1.png", 
+        "title": "PUROSANGUE",
+        "desc": "The Ferrari Roma Spider is a timelessly elegant, high-performance car, but also a contemporary take on the chic, pleasure-seeking Italian lifestyle of the 1950s and 60s. This spider carries over the proportions, volumes and specifications of the Ferrari Roma’s hugely successful concept, but what makes it so striking is the adoption of a soft top, a solution making a welcome return to the Prancing Horse range on a front-engined car 54 years after the launch of the 1969 365 GTS4",
+        "price": 500,
+        "isBought": false,
+
+        "colorsImage":["./assets/wheel-1-1-1.jpg", "./assets/wheel-1-2-1.jpg"],
+        "code":["#a4b894", "#d62710"],
+        "colors":["GIALLO MODENA", "ROSSO SCUDERIA"],
+        "colorsPrice":[100, 200],
+
+        "seatsImage":["./assets/1-seat-1.jpg", "./assets/1-seat-2.jpg", "./assets/1-seat-3.jpg", "./assets/1-seat-4.jpg"],
+        "seatCode":["#282b32", "#754a26", "#584f40", "#353c3c"],
+        "seatColors":["BLU STERLING", "CUOIO", "TORTORA", "BLU MEDIO"],
+        "seatsPrice":[100, 200, 300, 400],
+        
+        "wheelsImage": ["./assets/wheel-1.png", "./assets/wheel-2.jfif"],
+        "wheelName":["STANDARD RIMS", "FORGED WHEELS"],
+        "wheelsCarImage":["./assets/wheel-1-1-1.jpg", "./assets/wheel-1-1-2.jpg", "./assets/wheel-1-2-1.jpg", "./assets/wheel-1-2-2.jpg"],
+        "wheelsPrice":[100, 200, 300, 400]
+    },
+    {
+        "id": 2,
+        "image": "./assets/5-1.png", 
+        "title": "812 GTS", 
+        "desc": "The Ferrari Roma Spider is a timelessly elegant, high-performance car, but also a contemporary take on the chic, pleasure-seeking Italian lifestyle of the 1950s and 60s. This spider carries over the proportions, volumes and specifications of the Ferrari Roma’s hugely successful concept, but what makes it so striking is the adoption of a soft top, a solution making a welcome return to the Prancing Horse range on a front-engined car 54 years after the launch of the 1969 365 GTS4",
+        "price": 500,
+        "isBought": false,
+
+        "colorsImage":["./assets/wheel-2-1-1.jpg", "./assets/wheel-2-2-1.jpg"],
+        "code":["#a4b894", "#d62710"],
+        "colors":["GIALLO MODENA", "ROSSO SCUDERIA"],
+        "colorsPrice":[100, 200],
+        "seatsPrice":[100, 200, 300, 400],
+        "wheelsPrice":[100, 200, 300, 400],
+
+        "seatsImage":["./assets/2-seat-1.jpg", "./assets/2-seat-2.jpg", "./assets/2-seat-3.jpg", "./assets/2-seat-4.jpg"],
+        "seatCode":["#584f40", "#3d3630", "#353c3c", "#282b32"],
+        "seatColors":["TORTORA", "CHARCOAL", "BLU MEDIO", "BLU STERLING"],
+        
+        "wheelsImage": ["./assets/wheel-1.png", "./assets/wheel-2.jfif"],
+        "wheelName":["STANDARD RIMS", "FORGED MATTE"],
+        "wheelsCarImage":["./assets/wheel-2-1-1.jpg", "./assets/wheel-2-1-2.jpg", "./assets/wheel-2-2-1.jpg", "./assets/wheel-2-2-2.jpg"]
+    },
+    {
+        "id": 3,
+        "image": "./assets/5-1.png", 
+        "title": "SF90 SPIDER",
+        "desc": "The Ferrari Roma Spider is a timelessly elegant, high-performance car, but also a contemporary take on the chic, pleasure-seeking Italian lifestyle of the 1950s and 60s. This spider carries over the proportions, volumes and specifications of the Ferrari Roma’s hugely successful concept, but what makes it so striking is the adoption of a soft top, a solution making a welcome return to the Prancing Horse range on a front-engined car 54 years after the launch of the 1969 365 GTS4",
+        "price": 500,
+        "isBought": false,
+        "colorsPrice":[100, 200],
+        "seatsPrice":[100, 200, 300, 400],
+        "wheelsPrice":[100, 200, 300, 400],
+
+        "colorsImage":["./assets/wheel-3-1-1.jpg", "./assets/wheel-3-2-1.jpg"],
+        "code":["#a4b894", "#d62710"],
+        "colors":["GIALLO MODENA", "ROSSO SCUDERIA"],
+
+        "seatsImage":["./assets/2-seat-1.jpg", "./assets/2-seat-2.jpg", "./assets/2-seat-3.jpg", "./assets/2-seat-4.jpg"],
+        "seatCode":["#584f40", "#3d3630", "#353c3c", "#282b32"],
+        "seatColors":["TORTORA", "CHARCOAL", "BLU MEDIO", "BLU STERLING"],
+        
+        "wheelsImage": ["./assets/wheel-1.png", "./assets/wheel-2.jfif"],
+        "wheelName":["STANDARD RIMS", "FORGED MATTE"],
+        "wheelsCarImage":["./assets/wheel-3-1-1.jpg", "./assets/wheel-3-1-2.jpg", "./assets/wheel-3-2-1.jpg", "./assets/wheel-3-2-2.jpg"]
+    },
+    {
+        "id": 4,
+        "image": "./assets/5-1.png", 
+        "title": "ROMA SPIDER",
+        "desc": "The Ferrari Roma Spider is a timelessly elegant, high-performance car, but also a contemporary take on the chic, pleasure-seeking Italian lifestyle of the 1950s and 60s. This spider carries over the proportions, volumes and specifications of the Ferrari Roma’s hugely successful concept, but what makes it so striking is the adoption of a soft top, a solution making a welcome return to the Prancing Horse range on a front-engined car 54 years after the launch of the 1969 365 GTS4",
+        "price": 500,
+        "isBought": false,
+        "colorsPrice":[100, 200],
+        "seatsPrice":[100, 200, 300, 400],
+        "wheelsPrice":[100, 200, 300, 400],
+
+        "colorsImage":["./assets/wheel-4-1-1.jpg", "./assets/wheel-4-2-1.jpg"],
+        "code":["#a4b894", "#d62710"],
+        "colors":["GIALLO MODENA", "ROSSO SCUDERIA"],
+
+        "seatsImage":["./assets/2-seat-1.jpg", "./assets/2-seat-2.jpg", "./assets/2-seat-3.jpg", "./assets/2-seat-4.jpg"],
+        "seatCode":["#584f40", "#3d3630", "#353c3c", "#282b32"],
+        "seatColors":["TORTORA", "CHARCOAL", "BLU MEDIO", "BLU STERLING"],
+        
+        "wheelsImage": ["./assets/wheel-1.png", "./assets/wheel-2.jfif"],
+        "wheelName":["STANDARD RIMS", "FORGED MATTE - BLACK RACING"],
+        "wheelsCarImage":["./assets/wheel-4-1-1.jpg", "./assets/wheel-4-1-2.jpg", "./assets/wheel-4-2-1.jpg", "./assets/wheel-4-2-2.jpg"]
+    }
+]

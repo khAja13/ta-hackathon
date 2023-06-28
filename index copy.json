@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/1-1.png", 
+        "title": "F12berlinta",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt autem temporibus tenetur eius iste harum id. Sequi eius ipsum repudiandae?",
+        "price": 100,
+        "isBought": false,
+        "api":"https://stimg.cardekho.com/images/car-images/large/Ferrari/Ferrari-F12berlinetta/ferrari-f620-gt-name.jpg?tr=w-898",
+        "colors":["blu-pozzi", "blu-abu-dhabi", "blu-tour-de-france", "grigio-ingrid", "argento-nurburgring", "blu-mirabeau", "grigio-silverstone", "grigio-alloy"],
+        "code":["rgb(34, 39, 51)", "rgb(44, 70, 79)", "rgb(42, 64, 91)", "rgb(200, 192, 166)", "rgb(198, 198, 198)", "rgb(101, 108, 143)", "rgb(81, 81, 81)", "rgb(131, 139, 147)"],
+        "seatColors": ["black", "#b76837", "red"],
+        "seatPath":["./assets/1-seat-black.png","./assets/1-seat-leather.png","./assets/1-seat-red.png"]
+    },
+    {
+        "id": 2,
+        "image": "./assets/2-1.png", 
+        "title": "FERRARI 458 SPIDER",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt autem temporibus tenetur eius iste harum id. Sequi eius ipsum repudiandae?",
+        "price": 200,
+        "isBought": false,
+        "api":"https://stimg.cardekho.com/images/car-images/large/Ferrari/ferrari_458_spider/name.jpg?tr=w-898",
+        "colors":["Blu_Pozzi", "BLU_ABU_DHABI", "BLU_TOUR_DE_FRANCE", "GRIGIO_INGRID", "ARGENTO_NURBURGRING", "BLU_MIRABEAU", "GRIGIO_SILVERSTONE", "GRIGIO_ALLOY"],
+        "code":["rgb(34, 39, 51)", "rgb(44, 70, 79)", "rgb(42, 64, 91)", "rgb(200, 192, 166)", "rgb(198, 198, 198)", "rgb(101, 108, 143)", "rgb(81, 81, 81)", "rgb(131, 139, 147)"],
+        "seatColors": ["#5c6272", "black", "#915439", "#8d693f", "red"],
+        "seatPath":["./assets/2-seat-antique-blue.png","./assets/2-seat-black.png","./assets/2-seat-dark-leather.png", "./assets/2-seat-leather.png", "./assets/2-seat-red.png"]
+    },
+    {
+        "id": 3,
+        "image": "./assets/3-1.png", 
+        "title": "812 SUPERFAST",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt autem temporibus tenetur eius iste harum id. Sequi eius ipsum repudiandae?",
+        "price": 300,
+        "isBought": false,
+        "api":"https://stimg.cardekho.com/images/car-images/930x620/Ferrari/Ferrari-812-SuperFast/6301/name.jpg?tr=w-898",
+        "colors":["1542365498451/236_Ferrari_812Superfast_Giallo-Modena_dbae1e", "1542018058282/230_Ferrari_812Superfast_Blue-Pozzi_283e62", "1542018058282/244_Ferrari_812Superfast_Nero-Ds-1250_040404", "1542018058282/248_Ferrari_812Superfast_Rosso-Corsa_b80303", "1542018058282/254_Ferrari_812Superfast_Rosso-Mugello_530505", "1542365498451/226_Ferrari_812Superfast_Bianco-Avus_c6c2bd"],
+        "code":["rgb(247, 193, 49)", "rgb(34, 39, 51)", "rgb(61, 61, 61)", "rgb(155, 28, 21)", "rgb(91, 21, 21)", "rgb(230, 226, 217)"],
+        "seatColors": ["black", "#b76837", "red"],
+        "seatPath":["./assets/3-seat-black.png","./assets/3-seat-leather.png","./assets/3-seat-red.png"]
+    },
+    {
+        "id": 4,
+        "image": "./assets/4-1.png", 
+        "title": "FERRARI 296 GTB",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt autem temporibus tenetur eius iste harum id. Sequi eius ipsum repudiandae?",
+        "price": 400,
+        "isBought": false,
+        "api":"https://stimg.cardekho.com/images/car-images/930x620/Ferrari/296-GTB/9306/1675245912871/name.jpg?tr=w-898",
+        "colors":["224_GIALLO-MODENA_cab758", "237_BLU-ABU-DHABI_2e4263", "228_BIANCO-AVUS_b7bbbe", "234_GRIGIO-TITANIO-METALL_607087", "232_GRIGIO-ALLOY_7792a5", "235_GRIGIO-SILVERSTONE_404654", "238_BLU-MIRABEAU_3a5278", "239_BLU-TOUR-DE-FRANCE_2f3c5c"],
+        "code":["rgb(247, 193, 49)", "rgb(44, 70, 79)", "rgb(230, 226, 217)", "rgb(112, 124, 140)", "rgb(131, 139, 147)", "rgb(81, 81, 81)", "rgb(101, 108, 143)", "rgb(42, 64, 91)"],
+        "seatColors": ["black", "#b76837", "red"],
+        "seatPath":["./assets/4-seat-black.png","./assets/4-seat-leather.png","./assets/4-seat-red.png"]
+    },
+    {
+        "id": 5,
+        "image": "./assets/5-1.png", 
+        "title": "FERRARI PUROSANGUE",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt autem temporibus tenetur eius iste harum id. Sequi eius ipsum repudiandae?",
+        "price": 500,
+        "isBought": false,
+        "colorsImage":["./assets/5-seat-1.jpg", "./assets/5-seat-2.jpg", "./assets/5-seat-3.jpg", "./assets/5-seat-4.jpg"],
+        "code":["#a4b894", "#d62710", "#f05044", "#8e2e3a"],
+        "colors":["GIALLO MODENA", "ROSSO SCUDERIA", "ROSSO CORSA", "ROSSO MUGELLO"],
+        
+        "seatColors": ["black", "#c9bdaf"],
+        "seatPath":["./assets/5-seat-black.png","./assets/5-seat-cream.png"]
+    },
+    {
+        "id": 6,
+        "image": "./assets/6-1.png", 
+        "title": "ROMA SPIDER",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt autem temporibus tenetur eius iste harum id. Sequi eius ipsum repudiandae?",
+        "price": 600,
+        "isBought": false,
+        "api":"https://stimg.cardekho.com/images/car-images/930x620/Ferrari/Roma/7857/1593841367872/name.jpg",
+        "colors":["231_ROSSO-FIORANO_2d1e21", "239_ARGENTO-NURBURG%C2%ADRING_c7d1db", "241_GRIGIO-INGRID_a9ad95", "234_BLU-MIRABEAU_436ea5", "240_GRIGIO-ALLOY_b7cbd9", "221_GRIGIO-FERRO_8c9bb1", "230_AVORIO_c0bbaf", "233_BLU-TOUR-DE-FRANCE_274179"],
+        "code":["rgb(106, 29, 49)", "rgb(198, 198, 198)", "rgb(200, 192, 166);", "rgb(44, 70, 79);", "rgb(131, 139, 147)", "rgb(137, 133, 130)", "rgb(236, 226, 194)", "rgb(42, 64, 91)"],
+        "seatColors": ["black", "red"],
+        "seatPath":["./assets/6-seat-black.png","./assets/6-seat-red.png"]
+    }
+]
